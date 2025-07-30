@@ -52,7 +52,3 @@ Este projeto utiliza dados do UCI Machine Learning Repository para realizar prev
 - Modelo com melhor desempenho: Random Forest
 - AUC > 0.80, bom recall para identificação de inadimplentes.
 - A variável mais influente foi o histórico de pagamentos recentes (`PAY_0` e `PAY_2`).
-
-## ✍️ Autor
-Seu Nome  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seuusuario)
